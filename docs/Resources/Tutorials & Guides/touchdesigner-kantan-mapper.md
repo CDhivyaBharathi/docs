@@ -1,4 +1,4 @@
-#Touch Designer
+# Touch Designer - Kantan Mapper
 ## Projection mapping using Kantan mapper
 
 
@@ -19,10 +19,10 @@ Connect your laptop to the projector and make sure you set it as an 'Extended Di
 * In the panel section on the kantan mapper op, turn off `Display`
 * Pulse the kantan mapper window from the kantan section.
 
-	![Kantan editor window](/Users/dhivyabharathichellakumar/Desktop/kantanMapper.png)
+	![Kantan editor window](/img/kantanMapper.png)
 * In the newly opened window, click on window options
 
-	![window options window](/Users/dhivyabharathichellakumar/Desktop/kantan2.png)
+	![window options window](/img/kantan2.png)
 * Do the following:
 	- Set `monitor` as 1, here 1 denotes the projector
 	- Set `Opening size` as fill
@@ -44,7 +44,7 @@ Now you can map using quadrilaterals or free form shapes.
 * Now zoom out, you should see two components
 * Click on the project1 components and go to the `look` category, under this change the `Background TOP` category from *./out* to *./bg*
 
-![zoomed out window](/Users/dhivyabharathichellakumar/Desktop/projectWin.png)
+![zoomed out window](/img/projectWin.png)
 
 * Click on the perform component and under the `window` category, go to the `monitor` category and set it to *1* (denoting the projector display')
 * Finally click on the Perform icon, Picture looking icon at the top left of the window. This should open the projection mapping on the projector.
